@@ -1,0 +1,2 @@
+pend
+-DCATKIN_DEVEL_PREFIX=/home/c/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/c/catkin_ws/install -G Unix Makefiles

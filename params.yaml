@@ -1,0 +1,20 @@
+background_g: 86
+background_r: 150
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris:
+    host_ubuntu__44937: http://ubuntu:44937/
+rosversion: '1.14.9
+
+  '
+run_id: 10363032-0209-11eb-a1c4-000c29a4d8fc
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
